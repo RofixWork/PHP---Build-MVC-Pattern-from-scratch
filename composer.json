@@ -1,0 +1,20 @@
+{
+    "name": "hp/mvc2",
+    "autoload": {
+        "psr-4": {
+            "Hp\\Mvc2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abdessamad",
+            "email": "wourkout123@gmail.com"
+        }
+    ],
+    "autoload-dev": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
